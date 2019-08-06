@@ -1,4 +1,5 @@
 # sunjet
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+sunjet_sample
+>>>>>>> 0bbab8404943c4665516aa1f44105bb69c18f22e
